@@ -7,7 +7,7 @@
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>user-service</name>
+    <name>product-service</name>
     <description>User Service for E-Commerce System</description>
 
     <parent>
